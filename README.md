@@ -1,5 +1,5 @@
 # commentfuction
-这是仿照人人评论功能的案例
+这是仿照人人网评论功能的案例
 ## 这是这个案例中涉及到要点：
 * 1.学会JavaScript处理日期和时间。var t=new Date();这样就可以获取当前日期的对象，注意new Date()中不传入参数时获取当前日期的对象，
 * 2.掌握Dom操作中的添加/删除子节点方法。appendChild(node)和removeChild(node)
