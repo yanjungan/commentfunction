@@ -9,6 +9,7 @@
 	事件代理的时候，使用事件对象中的srcElement属性,获取触发元素。
 	IE浏览器支持window.event.srcElement，而firefox支持window.event.target。srcElement和target属性里面包含着类class，即各个标签，可以通过判断className，来进行对应的函数操作。
 * 5.自定义的属性获取用getAttribute()和自定义的属性用setAttribute(),里面包含两个参数，一个是参数名，一个是值，如commentBox.setAttribute('user','self');
+
 ## 这是效果：
 http://htmlpreview.github.io/?https://github.com/yanjungan/commentfunction/blob/master/index.html
 
